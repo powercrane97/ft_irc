@@ -64,6 +64,10 @@ For example, if you started the server with `./ircserv 6667 secret`, you would c
 
 For the best experience and compatibility, it is recommended to use [irssi](https://irssi.org/) as your IRC client.
 
+## Reference
+
+These IRC [docs](https://modern.ircdocs.horse) were used for reference. 
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
