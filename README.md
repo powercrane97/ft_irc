@@ -68,6 +68,10 @@ For the best experience and compatibility, it is recommended to use [irssi](http
 
 These IRC [docs](https://modern.ircdocs.horse) were used for reference. 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
